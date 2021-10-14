@@ -1,3 +1,7 @@
-# Цель
+# Задача
 
-![Alt text](dz_graphs.jpg)
+![Alt text](image/dz_graphs.jpg)
+
+# Решение
+
+![Alt text](image/example.png)

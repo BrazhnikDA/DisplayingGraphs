@@ -30,7 +30,7 @@ def main():
     plt.title(r'$f{\left(x \right)} = \frac{1}{x - 2} + 1$')
 
     plt.subplot(236)
-    plt.plot(x, sqrt(x) * sqrt(1 - x), 'g')  # Полупрозрачная линия
+    plt.plot(x, sqrt(x) * sqrt(1 - x), 'r-')  # Полупрозрачная линия
     plt.title(r'${y} = \sqrt{x} \sqrt{1 - x}$')
 
     plt.show()
